@@ -1,8 +1,8 @@
 ## Hi I'm Nakrop Narun 👋
+I'm fresh graduate of computer engineering from Khon Kaen university. I'm currently look on the role on backend web development ideally writing in Go or Python.
 
-  * I'm fresh graduate of computer engineering from Khon Kaen university.
-  * I'm currently learning backend-development like Python, C, Go, SQL.
-  * I had an internship with full stack-development for 1 month.
+  * I'm currently learning backend development like Python, C, Go, SQL.
+  * I had an internship with full stack development for 1 month.
 <!--
 **Nakrop2002/Nakrop2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
