@@ -1,5 +1,5 @@
 ## Hi I'm Nakrop Narun 👋
-I'm fresh graduate of computer engineering from Khon Kaen university. I'm currently look on the role on backend web development ideally writing in Go or Python.
+I'm fresh graduate of computer engineering from Khon Kaen university. I'm currently look on the role on backend development ideally writing in Go or Python.
 
   * I'm currently learning backend development like Python, C, Go, SQL.
   * I had an internship with full stack development for 1 month.
